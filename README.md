@@ -26,3 +26,10 @@ exemple de hachage de mot de passe:
 
 
 ![Image 29-09-2024 à 00 05](https://github.com/user-attachments/assets/9f28bd04-0394-4f4a-aa45-ca23b18afa1f)
+
+EXEMPLE CRUD:
+
+
+![Image 02-10-2024 à 17 12](https://github.com/user-attachments/assets/c83aa8a4-dc42-4f7a-8dc6-042c197cb3a1)
+
+
