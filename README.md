@@ -32,4 +32,6 @@ EXEMPLE CRUD:
 
 ![Image 02-10-2024 à 17 12](https://github.com/user-attachments/assets/c83aa8a4-dc42-4f7a-8dc6-042c197cb3a1)
 
+GET ET POST :
 
+https://storecollection.fr/index.php/configure/advanced/sql-requests
